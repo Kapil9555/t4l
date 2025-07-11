@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import "keen-slider/keen-slider.min.css";
+
+
+:root {
+  --font-poppins: 'Poppins', sans-serif;
+  --color-light-grey: #797979;
+  --color-dark-grey: #333333;
+  --color-blue: #3E57A7;
+}
+
+body {
+  font-family: var(--font-poppins);
+}
